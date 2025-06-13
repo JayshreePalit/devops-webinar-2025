@@ -21,8 +21,7 @@ On Day 3, I completed the following in Jenkins:
 
 
 ##  What I Learned
-- Completed Jenkins setup: installed recommended plugins, configured URL, and created the admin user  
-- Used `curl` to download the JNLP agent on the slave node  
+- Completed Jenkins setup: installed recommended plugins, configured URL, and created the admin user    
 - Registered the agent successfully and saw it listed in Jenkins as a connected node  
 
 ---
