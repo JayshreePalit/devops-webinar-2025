@@ -15,6 +15,9 @@ On Day 3, I completed the following in Jenkins:
 ![day3 6th](https://github.com/user-attachments/assets/439a8e61-fc21-4b30-9490-0e050367a3ec)
 ![day3 7a](https://github.com/user-attachments/assets/5b515e20-78c9-401c-ad09-3db99517a513)
 ![day3 9](https://github.com/user-attachments/assets/a4a532bd-2055-4bb8-b0ad-d3930fcb5c65)
+![day38](https://github.com/user-attachments/assets/2ed97d5d-e7f8-442e-9061-a2d2788f0011)
+![day311](https://github.com/user-attachments/assets/22133b1b-b2db-4abc-b6ee-78e0a8b8f41e)
+![day37th](https://github.com/user-attachments/assets/12db460b-6ddf-4f98-81d8-bb7d4fbced53)
 
 
 
