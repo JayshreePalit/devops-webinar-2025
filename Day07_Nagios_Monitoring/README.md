@@ -47,5 +47,4 @@
 
 ---
 
-> 🔗 Bonus: [Official Nagios Documentation](https://www.nagios.org/documentation/)
 
