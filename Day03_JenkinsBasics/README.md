@@ -11,7 +11,8 @@ On Day 3, I completed the following in Jenkins:
 ## 📸 Screenshots
 
 ### 1. Getting Started – Plugin Selection  
-![day3-3rd](./day3-3rd.JPG)
+- [Day 3 – Jenkins Setup](./Day3_Jenkins_Setup/)
+
 
 ---
 
