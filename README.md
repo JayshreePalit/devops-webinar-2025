@@ -57,7 +57,7 @@ As a future **Network Administrator or IT Support Specialist**, I want to:
 - 📍 Based in Hyderabad, India – preparing for **IT job roles in Germany**
 
 **Email:** jayshreeroy30@gmail.com  
-**LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/jayshreeroypalit)
+**LinkedIn:** [Jayshree Roy Palit](www.linkedin.com/in/jayshreeroypalit)
 
 ---
 
