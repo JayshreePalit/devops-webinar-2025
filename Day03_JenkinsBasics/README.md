@@ -5,6 +5,8 @@ On Day 3, I completed the following in Jenkins:
 - Completed the initial setup wizard (plugins, URL, admin account)
 - Downloaded & configured the JNLP agent on a slave node
 - Verified slave is connected under “Nodes” in Jenkins
+
+  Screenshots:
 ![day3 1st](https://github.com/user-attachments/assets/46d922c9-8a61-429d-a4d8-135209aa5a97)
 ![day3 2nd](https://github.com/user-attachments/assets/95811235-85af-4dee-80d3-35d561a5de35)
 ![day3 3rd](https://github.com/user-attachments/assets/00de5afd-77cf-46e9-88fe-11944631ac24)
