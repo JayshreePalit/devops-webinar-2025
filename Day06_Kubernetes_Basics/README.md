@@ -1,6 +1,6 @@
 # 📦 Day 6: Kubernetes Basics
 
-## 🧠 What is Kubernetes?
+##  What is Kubernetes?
 
 Kubernetes (K8s) is an **open-source container orchestration platform** that automates:
 
@@ -13,7 +13,7 @@ It helps manage large numbers of containers in production environments.
 
 ---
 
-## 🔧 Why is Kubernetes Needed?
+##  Why is Kubernetes Needed?
 
 | Problem with Docker Alone | Solution with Kubernetes |
 |---------------------------|--------------------------|
@@ -24,7 +24,7 @@ It helps manage large numbers of containers in production environments.
 
 ---
 
-## 🚀 Key Concepts in Kubernetes:
+##  Key Concepts in Kubernetes:
 
 | Term | Description |
 |------|-------------|
