@@ -6,26 +6,6 @@ On Day 3, I completed the following in Jenkins:
 - Downloaded & configured the JNLP agent on a slave node
 - Verified slave is connected under “Nodes” in Jenkins
 
----
-
-## 📸 Screenshots
-
-### 1. Jenkins Plugin Setup  
-![Jenkins Plugin](./day3-1.jpg)
-
-### 2. Jenkins URL Configuration  
-![URL Config](./day3-2.jpg)
-
-### 3. Jenkins Ready to Use  
-![Ready](./day3-3.jpg)
-
-### 4. Agent Setup on Slave Node  
-![Agent Setup](./day3-4.jpg)
-
-### 5. Slave Node Connected  
-![Node Connected](./day3-5.jpg)
-
----
 
 ##  What I Learned
 - Completed Jenkins setup: installed recommended plugins, configured URL, and created the admin user  
