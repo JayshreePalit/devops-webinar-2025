@@ -10,29 +10,20 @@ On Day 3, I completed the following in Jenkins:
 
 ## 📸 Screenshots
 
-### 1. Getting Started – Plugin Selection  
-- [Day 3 – Jenkins Setup](./Day3_Jenkins_Setup/)
+### 1. Jenkins Plugin Setup  
+![Jenkins Plugin](./day3-1.jpg)
 
+### 2. Jenkins URL Configuration  
+![URL Config](./day3-2.jpg)
 
----
+### 3. Jenkins Ready to Use  
+![Ready](./day3-3.jpg)
 
-### 2. Setting Jenkins Instance URL  
-![Screenshot 2](./day3%204th.JPG)
+### 4. Agent Setup on Slave Node  
+![Agent Setup](./day3-4.jpg)
 
----
-
-### 3. Jenkins Ready – Continue to Dashboard  
-![Screenshot 3](./day3%205th.JPG)
-
----
-
-### 4. Downloading & Running agent.jar on Slave  
-![Screenshot 4](./day3%206th.JPG)
-
----
-
-### 5. Jenkins Nodes List (with slave connected)  
-![Screenshot 5](./day3%209.JPG)
+### 5. Slave Node Connected  
+![Node Connected](./day3-5.jpg)
 
 ---
 
