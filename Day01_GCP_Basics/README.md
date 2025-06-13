@@ -34,5 +34,4 @@ g day1 GCP.md…]()
 - Billing account and project creation are required for launching services.
 - IAM roles and permissions are essential for access control.
 
----
-📅 *Date: June 13, 2025*
+
